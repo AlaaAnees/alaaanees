@@ -1,8 +1,8 @@
-<h2 align="center">Hey dudes👋, My name is Alaa.</h2>
+<h2 align="center">Hello there👋, My name is Alaa.</h2>
 
 ###
 
-<h4 align="center">I love web development ...</h4>
+<h3 align="center">I love web development ...</h3>
 
 ###
 
