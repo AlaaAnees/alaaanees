@@ -17,7 +17,7 @@
 
 ###
 
-<p align="left">🌱 I’m currently focusing on front-end development stack.<br><br>📫 How to reach me alaaaneees@gmail.com .<br><br>⚡ Fun fact I think Pikachu belongs to Marvel heroes.</p>
+<p align="left">🌱 I’m currently focusing on front-end development.<br><br>📫 How to reach me alaaaneees@gmail.com .<br><br>⚡ Fun fact I think Pikachu belongs to Marvel heroes.</p>
 
 ###
 
